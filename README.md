@@ -6,9 +6,11 @@ How to run
 Go to tiktok and download your json data.
 Then point to ur json file on line 5.
 
-Create python virtual environment.
-download yt-dlp in the virutal environment
-Then run script
+Create python virtual environment. `python -m venv name`        
+Enter virtual environment: `.\name\Scripts\activate`
+
+download yt-dlp in the virutal environment. `pip install -U "yt-dlp[default]"`
+Then run script `python tiktok.py`
 
 Yayy!!!
 
