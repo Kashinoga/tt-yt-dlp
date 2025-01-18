@@ -14,3 +14,8 @@ Yayy!!!
 
 Shoutout to @Kashinoga
 We learned python today :)
+
+
+
+
+![image](https://github.com/user-attachments/assets/fff612b7-c7ad-4fb6-aa26-2a340682f00d)
